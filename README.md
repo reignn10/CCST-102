@@ -79,7 +79,6 @@ Unsupervised Learning
 
 ---
 
-## 🌟 Visuals & Aesthetics
 
 
 
