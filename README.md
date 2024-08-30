@@ -15,6 +15,9 @@ Familiarize students with various applications of machine learning in real-world
 
 ## 🧴 Beauty Industry - Personalized Make up Recommendations
 
+![Beauty Industry](link-to-beauty-image)
+*Personalized skincare using AI.*
+
 ### Problem Being Solved
 Consumers struggle to find suitable make up products due to the vast number of options and varying skin types.
 
@@ -31,6 +34,9 @@ Supervised Learning
 
 ## 💹 Marketing Industry - Predictive Analytics for Customer Behavior
 
+![Marketing Industry](link-to-marketing-image)
+*Targeted advertising driven by predictive analytics.*
+
 ### Problem Being Solved
 Marketers need to predict customer behavior to optimize campaigns and improve conversion rates.
 
@@ -46,6 +52,9 @@ Supervised Learning
 ---
 
 ## 🎨 Arts Industry - AI-Generated Artwork
+
+![Arts Industry](link-to-arts-image)
+*AI-generated artwork pushing the boundaries of creativity.*
 
 ### Problem Being Solved
 Artists are exploring new creative processes by integrating technology into art creation.
@@ -72,11 +81,7 @@ Unsupervised Learning
 
 ## 🌟 Visuals & Aesthetics
 
-![Beauty Industry](link-to-beauty-image)
-*Personalized skincare using AI.*
 
-![Marketing Industry](link-to-marketing-image)
-*Targeted advertising driven by predictive analytics.*
 
-![Arts Industry](link-to-arts-image)
-*AI-generated artwork pushing the boundaries of creativity.*
+
+
