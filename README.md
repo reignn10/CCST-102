@@ -8,7 +8,7 @@ Familiarize students with various applications of machine learning in real-world
 
 ## 🎥 Presentation
 
-[![Introduction Video](link-to-your-thumbnail-image)](link-to-your-video)  
+[![Presentation Video](link-to-your-thumbnail-image)](link-to-your-video)  
 *Click the image to watch the video.*
 
 ---
