@@ -8,15 +8,14 @@ Familiarize students with various applications of machine learning in real-world
 
 ## 🎥 Presentation
 
-[![Introduction Video](https://www.canva.com/design/DAGPbntKk30/ROHJNsVF0u4PUPii9ywS8A/edit?utm_content=DAGPbntKk30&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.youtube.com/watch?v=mrne0eQhIUc)  
-*Click the image to watch the video.*
+[Introduction Video](https://www.youtube.com/watch?v=mrne0eQhIUc)  
+*Click the link to watch the video.*
 
 ---
 
 ## 🧴 Beauty Industry - Personalized Make up Recommendations
 
-![Beauty Industry](link-to-beauty-image)
-*Personalized skincare using AI.*
+*Personalized make up using AI.*
 
 ### Problem Being Solved
 Consumers struggle to find suitable make up products due to the vast number of options and varying skin types.
@@ -34,7 +33,6 @@ Supervised Learning
 
 ## 💹 Marketing Industry - Predictive Analytics for Customer Behavior
 
-![Marketing Industry](link-to-marketing-image)
 *Targeted advertising driven by predictive analytics.*
 
 ### Problem Being Solved
@@ -53,7 +51,6 @@ Supervised Learning
 
 ## 🎨 Arts Industry - AI-Generated Artwork
 
-![Arts Industry](link-to-arts-image)
 *AI-generated artwork pushing the boundaries of creativity.*
 
 ### Problem Being Solved
